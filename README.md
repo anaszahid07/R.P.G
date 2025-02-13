@@ -1,4 +1,4 @@
-# RPG: Random Password Generator
+# R.P.G: Random Password Generator
 
 ## Overview
 
